@@ -17,7 +17,7 @@ pip install pygame
 git clone https://github.com/Shivanirao2000/Pygame-Project.git
 cd Pygame-Project/Game Module/DesertLevel.py
 ```
-* Run the game, either directly on your editor, or by entering the below command.
+* Start the game by running the file DesertLevel.py.
 ```
 python3 DesertLevel.py
 ```
